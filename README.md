@@ -4,6 +4,12 @@ Aplicativo local de busca de arquivos para Windows, inspirado no Google Desktop.
 
 **Versão atual: 1.0.0.** Busca funcional em texto/PDF e Office moderno (DOCX, XLSX, PPTX), atualização do índice, gerenciamento de pastas e consolidação de pastas pai. Proteção OneDrive testada em pasta pequena, incluindo transições entre nuvem e local. Windows OCR integrado; IA permanece como próxima etapa. As limitações de cobertura e escala continuam descritas abaixo; veja também `CHANGELOG.md`.
 
+## Interface
+
+![Interface do GDesktop durante a indexação de arquivos](docs/images/gdesktop-interface.png)
+
+Captura da aplicação em uso, com os caminhos pessoais ocultados.
+
 ## Instalar em outro computador com o instalador pronto
 
 [**Baixar o instalador para Windows x64**](https://github.com/eduardoellery/GDesktop-Public/releases/latest) — abra **Assets** e escolha o arquivo `.exe`.
