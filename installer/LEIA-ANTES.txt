@@ -1,0 +1,13 @@
+﻿GDesktop — busca local para Windows
+
+Este instalador inclui o aplicativo e o runtime .NET. Não é necessário instalar Visual Studio, Office, Node.js, Tesseract ou o SDK .NET no computador de destino.
+
+A instalação é feita para o usuário atual. A aplicação não é configurada para iniciar automaticamente com o Windows.
+
+Se o GDesktop estiver aberto, use Sair no ícone da bandeja antes de instalar ou atualizar.
+
+O OCR depende de um idioma de reconhecimento de texto instalado no Windows. O aplicativo usa português do Brasil quando disponível. O instalador não baixa nem altera idiomas do Windows. Consulte o README pelo link na aplicação para instruções.
+
+Depois de abrir, selecione as pastas que deseja indexar. Arquivos somente online ficam por nome e metadados até estarem disponíveis localmente.
+
+Seu índice é criado em %LOCALAPPDATA%\GDesktop. Atualizar ou desinstalar o programa preserva esse índice. Nenhum banco pessoal acompanha o instalador.
